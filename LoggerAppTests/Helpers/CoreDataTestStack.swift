@@ -3,7 +3,7 @@
 //  LoggerAppTests
 //
 //  Created by Ramy Nasser on 2/28/20.
-//  Copyright © 2020 Instabug. All rights reserved.
+//  Copyright © 2020 Ramy. All rights reserved.
 //
 
 import Foundation
